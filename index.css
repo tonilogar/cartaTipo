@@ -1,6 +1,11 @@
 body {
     background-color: #888885;
-    background-image: url('cartaTipo.jpg');
-    background-repeat: no-repeat;
-    background-position-x: center;
+    margin: 0px;
+    display: grid;
+    align-items: center;
+    align-self: center;
+    }
+    img {
+        width: 100%;
+        height: 100vh; 
     }
